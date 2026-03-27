@@ -1,2 +1,3 @@
-The Odin Project
-Fundamental of HTML and CSS!
+The Odin Project - Recipes
+
+Fundamental of HTML and CSS with recipes!
